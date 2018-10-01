@@ -1,9 +1,9 @@
 {
-  "name": "pluginbot",
+  "name": "@eservices/pluginbot",
   "version": "0.2.0",
   "repository": {
     "type": "git",
-    "url": "http://github.com/service-bot/pluginbot.git"
+    "url": "http://github.com/vbosstech/pluginbot.git"
   },
   "main": "pluginbot.js",
   "license": "MIT",
